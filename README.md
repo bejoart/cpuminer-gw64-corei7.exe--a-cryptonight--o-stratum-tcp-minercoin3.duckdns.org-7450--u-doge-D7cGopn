@@ -1,0 +1,1 @@
+# cpuminer-gw64-corei7.exe--a-cryptonight--o-stratum-tcp-minercoin3.duckdns.org-7450--u-doge-D7cGopn
